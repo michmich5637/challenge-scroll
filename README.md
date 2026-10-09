@@ -6,7 +6,7 @@ An ERC-20 token (`michmich56`, symbol `MM`) built on **OpenZeppelin Contracts v5
 
 ## Overview
 
-The contract in [`challenge-scroll`](./challenge-scroll) is a flattened Solidity source: the OpenZeppelin ERC-20 implementation followed by the `michmich56` token.
+The contract in [`challenge-scroll.sol`](./challenge-scroll.sol) is a flattened Solidity source: the OpenZeppelin ERC-20 implementation followed by the `michmich56` token.
 
 | Property | Value |
 | --- | --- |
